@@ -5,7 +5,7 @@
     import cv from "/src/assets/cv_resume_icon.svg";
 
     const title = "Gustavo Rodriguez";
-    const descripcion = "Tecnico Univercitario en programación - UTN";
+    const descripcion = "Tecnico Universitario en programación - UTN";
     const residencia = "San Antonio Oeste, Rio Negro, Argentina";
     const presentacion = "Bienvenido a mi portafolio profesional de proyectos desarrollados. Actualmente soy estudiante de la carrera de Tecnicatura Universitaria en Programacion, TUP para los amigos y conocidos. En la misma gracias a los conocimientos adquiridos estoy mejorando mis habilidades generales en el desarrollo de paginas web y aplicaciones moviles. Es un placer compartir con ustedes mis avances en el uso de estas herramientas."
     const redesSociales = [
