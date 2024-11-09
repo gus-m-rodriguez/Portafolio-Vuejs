@@ -11,8 +11,8 @@ fechacolor.value= [
 ];
 const educacion = ref ([]);
 educacion.value = [
-    {fecha: "2024", title: "Técnicatura Universitaria en Programacion" descripcion: "Incumbencias Profecionales: Operacion y programacion de computadoras, desarrollo de programa en distintos lenguajes, analisis y control de sistema informaticos", enlace:"https://www.youtube.com/"},
-    {fecha: "2023", title: "Ingenieria en Sistemas UdeMM" descripcion:"Actualmente me encuentro cursando el segundo año de la carrera de referencia, ampliando conocimientos en las bases de los sistemas y el desarrollo de aplicaciones, ganando aptitudes en el manerjo de herramietas como UML", enlace: "https://udemm.edu.ar"},
+    {fecha: "2024", title: "Técnicatura Universitaria en Programacion", descripcion: "Incumbencias Profecionales: Operacion y programacion de computadoras, desarrollo de programa en distintos lenguajes, analisis y control de sistema informaticos", enlace:"https://www.youtube.com/"},
+    {fecha: "2023", title: "Ingenieria en Sistemas UdeMM", descripcion:"Actualmente me encuentro cursando el segundo año de la carrera de referencia, ampliando conocimientos en las bases de los sistemas y el desarrollo de aplicaciones, ganando aptitudes en el manerjo de herramietas como UML", enlace: "https://udemm.edu.ar"},
     {fecha: "2022", title: "Intership en Desarrollo web", descripcion: "Realice una pasantia en ABC solutions, contribuyendo en la creacion de interfaces de usuarios y optimizaciión de sitios web", enlace: "http:www.direccion.com"},
     {fecha: "2021", title: "Proyecto personal - Aplicacion de Gestion de tareas", descripcion: "Desarrolle una aplicacion apra la gestión de tareas diarias usando HTML, CSS y JavaScript, implementando funcionalidades como lista de tareas y recordatorios", enlace: "http:www.direccion.com"},
     {fecha: "2020", title: "Curso de instruccion a la Programación", descripcion: "Compelte u ncurso en liena sobre fundamentos de programcion, donde aprendí leanguajes como python y java", enlace: "http:www.direccion.com"}
